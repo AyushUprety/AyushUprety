@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ayushuprety1@gmail.com**
 
-- - ⚡ Fun fact: **I enjoy watching horror movies** 👻  
+- ⚡ Fun fact: **I enjoy watching horror movies** 👻  
   > Data analysis and horror movies have one thing in common: uncovering scary truths hidden in plain sight! Whether it's a ghost in the dataset (missing values 👀) or a shocking outlier, I’m     
     always ready to face the unknown!
 
