@@ -1,6 +1,6 @@
 [![MasterHead](https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d)]
 <h1 align="center">Hi 👋, I'm Ayush Uprety</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate data analyst from Nepal</h3>
 <img align='right' alt='coding' width='400' src='https://media4.giphy.com/media/Wsju5zAb5kcOfxJV9i/200w.webp?cid=ecf05e47glpzqz5pa1o3jqzto9hxafy2ragsix914otsrxs8&rid=200w.webp&ct=g'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushuprety&label=Profile%20views&color=0e75b6&style=flat" alt="ayushuprety" /> </p>
